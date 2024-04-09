@@ -1,3 +1,4 @@
+<!-- factorial of number -->
 <html>
     <body>
         <form action="1.php" method="post">
