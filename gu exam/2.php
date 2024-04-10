@@ -1,4 +1,4 @@
-<!-- update empname to 'ABC' where empnum is 3 -->
+<!--- update empname to 'ABC' where empnum is 3 -->
 <html>
     <body>
         <form action="2.php" method="post">
